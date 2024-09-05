@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="cabin_400" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/cabin</item>
+        <item name="android:textFontWeight" tools:targetApi="p">400</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>
